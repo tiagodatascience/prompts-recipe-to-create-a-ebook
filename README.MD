@@ -19,12 +19,6 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
 <a href="https://github.com/Yolandagin/prompts-recipe-to-create-a-ebook/blob/main/assets/Ebook%20apraxia%20final.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
