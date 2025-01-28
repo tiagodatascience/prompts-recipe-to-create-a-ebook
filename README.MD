@@ -19,6 +19,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
+<a href="https://github.com/Yolandagin/prompts-recipe-to-create-a-ebook/blob/main/assets/Ebook - O Segredo dos Investimentos.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
